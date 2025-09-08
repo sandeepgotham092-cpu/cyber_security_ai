@@ -1,0 +1,7 @@
+django 
+pandas 
+scikit-learn 
+torch 
+mysql-connector-python 
+gunicorn
+pymysql
